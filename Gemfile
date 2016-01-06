@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'omniauth'
 gem 'omniauth-github'
 gem 'pry'
-gem 'airbrake', path: '/home/kyrylo/code/airbrake/airbrake'
+gem 'airbrake', path: '123'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
