@@ -3,7 +3,6 @@ class WelcomeController < ApplicationController
   end
 
   def crash
-    binding.pry
     1/0
   end
 end
