@@ -5,4 +5,4 @@
 2. Navigate to http://localhost:3000/
 3. Log in via GitHub
 4. Navigate to http://localhost:3000/crash
-5. Check your Airbrake dashboard
+5. Check your Airbrake dashboard (see the logs for the error URL)
